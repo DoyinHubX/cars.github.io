@@ -1,2 +1,2 @@
 # cars
-website hosting sample
+Website hosting sample First push from Rstudio was successful. 
