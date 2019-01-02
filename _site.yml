@@ -1,0 +1,18 @@
+name: doyin-elugbadebo-website
+output_dir: docs
+navbar:
+  title: eslintPurity
+  left:
+  - text: Home
+    icon: glyphicon glyphicon-home
+    href: index.html
+  - text: Speed and Distance
+    icon: glyphicon glyphicon-grain
+    href: speed-and-distance.html
+output:
+  html_document:
+    theme: cosmo
+    include:
+      after_body: footer.html
+    lib_dir: site_libs
+    self_contained: no
