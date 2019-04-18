@@ -1,3 +1,3 @@
 # cars
-Website hosting sample. First push from Rstudio was successful. 
+Website host sample. First push from Rstudio was successful. 
 
